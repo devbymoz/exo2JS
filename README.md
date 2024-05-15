@@ -2,6 +2,8 @@ L'exercice consiste à créer en javascript des éléments de formulaire de list
 Vous ajoutez le minimum de css ou de scss pour que le rendu soit à-peu-près conforme à l’image ci-dessous.
  
 
+// Création des composants : Form, Select
+
 Consignes - 
 Vous utiliserez :
 •     le mécanisme des "promesses" avec la fonction "fetch",
