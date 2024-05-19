@@ -1,0 +1,27 @@
+body {
+  font-weight: bold;
+}
+
+section {
+  background-color: #dabfd6;
+  max-width: 350px;
+  padding: 10px 20px 30px;
+}
+
+.input-select {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#card-details-town {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 40px 20px;
+  margin-top: 10px;
+  border: 1px solid #000;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 0;
+}
